@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="135"
+   height="32"
+   viewBox="0 0 35.718729 8.4666666"
+   version="1.1"
+   id="svg307"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="topo-treks-icon-long.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview309"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="7.6200738"
+     inkscape:cx="70.143678"
+     inkscape:cy="7.1521617"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs304">
+    <rect
+       x="35.826424"
+       y="6.8240809"
+       width="98.949173"
+       height="25.85277"
+       id="rect462" />
+    <rect
+       x="32.808083"
+       y="0.91862631"
+       width="121.7836"
+       height="30.445898"
+       id="rect699" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8032"
+       id="linearGradient8034"
+       x1="0.26385328"
+       y1="4.2916489"
+       x2="8.294981"
+       y2="4.2916489"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient8032">
+      <stop
+         style="stop-color:#22c55e;stop-opacity:1;"
+         offset="0"
+         id="stop8028" />
+      <stop
+         style="stop-color:#166534;stop-opacity:1;"
+         offset="1"
+         id="stop8030" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8032"
+       id="linearGradient575"
+       gradientUnits="userSpaceOnUse"
+       x1="0.26385328"
+       y1="4.2916489"
+       x2="8.294981"
+       y2="4.2916489" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8032"
+       id="linearGradient577"
+       gradientUnits="userSpaceOnUse"
+       x1="0.26385328"
+       y1="4.2916489"
+       x2="8.294981"
+       y2="4.2916489" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8032"
+       id="linearGradient579"
+       gradientUnits="userSpaceOnUse"
+       x1="0.26385328"
+       y1="4.2916489"
+       x2="8.294981"
+       y2="4.2916489" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5036"
+       style="stroke:url(#linearGradient8034);stroke-opacity:1"
+       transform="matrix(1.0327581,0,0,1.0009023,-0.12419467,-0.0621881)">
+      <path
+         style="fill:none;stroke:url(#linearGradient575);stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         d="M 2.0929088,1.3313991 C 2.8539407,0.86785168 3.3478176,0.45118958 4.307543,0.41658418 5.267269,0.38197918 5.894201,0.47067518 6.697966,1.3977563 7.501732,2.3248371 6.631176,2.9054699 6.773186,3.6474361 6.915191,4.3894023 7.74761,5.1728358 7.896057,5.8010887 8.044504,6.4293421 8.243854,7.3436461 7.415549,7.9144521 6.587243,8.4852591 5.232292,7.9609321 4.702861,7.7337931 4.173429,7.5066571 3.896019,7.3192591 3.2559532,6.9498481 2.6158872,6.5804371 1.4912848,7.3532121 0.94582826,6.7526211 -0.12317754,5.5755597 1.2215141,4.8917244 1.0283892,4.0213584 0.86107826,2.7474798 0.68920846,2.1111114 2.0929088,1.3313991 Z"
+         id="path1412"
+         sodipodi:nodetypes="czzzzzzzscc" />
+      <path
+         d="M 2.7642029,2.3868326 C 3.2165721,2.104986 3.5101403,1.8516466 4.0806155,1.8306059 c 0.5704761,-0.021041 0.9431342,0.032889 1.4209047,0.5965733 0.477771,0.5636847 -0.039701,0.9167217 0.044712,1.3678527 0.08441,0.4511312 0.5792127,0.9274755 0.667452,1.3094666 0.08824,0.3819904 0.206736,0.937907 -0.2856215,1.2849691 C 5.4357043,6.7365303 4.6302997,6.4177285 4.3155983,6.2796231 4.0008963,6.1415196 3.8359994,6.0275777 3.455534,5.802968 3.0750688,5.5783584 2.406588,6.0482219 2.0823598,5.6830499 1.4469255,4.9673721 2.2462315,4.5515854 2.1314355,4.0223846 2.031983,3.2478396 1.9298208,2.8609141 2.7642029,2.3868326 Z"
+         style="fill:none;stroke:url(#linearGradient577);stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
+         id="path4996" />
+      <path
+         d="M 3.4275365,3.3427456 C 3.6142564,3.2324907 3.7354292,3.1333875 3.9708987,3.1251567 4.2063675,3.1169247 4.360186,3.1380228 4.5573903,3.3585286 4.7545947,3.5790351 4.5409989,3.7171387 4.575849,3.8936155 4.6106874,4.0700923 4.8149247,4.2564321 4.8513465,4.4058623 4.8877708,4.5552922 4.9366786,4.7727597 4.7334531,4.9085261 4.5302276,5.0442926 4.1977886,4.9195814 4.0678924,4.8655562 3.9379964,4.8115318 3.8699334,4.7669591 3.7128929,4.6790947 3.5558525,4.5912303 3.2799306,4.7750349 3.1461018,4.6321838 2.8838198,4.3522196 3.2137434,4.1895692 3.1663585,3.9825525 3.1253108,3.6795602 3.08314,3.5281998 3.4275395,3.3427451 Z"
+         style="fill:none;stroke:url(#linearGradient579);stroke-width:0.460537;stroke-dasharray:none;stroke-opacity:1"
+         id="path4996-1" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26489942,0,0,0.23631686,0.91146019,-0.51813278)"
+       id="text460"
+       style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:20px;font-family:inter;-inkscape-font-specification:'inter Ultra-Light';letter-spacing:0.317246px;white-space:pre;shape-inside:url(#rect462);display:inline;fill:#000000;stroke:#092a16;stroke-width:2"><tspan
+         x="35.826172"
+         y="25.333608"
+         id="tspan531">topo treks</tspan></text>
+  </g>
+</svg>
