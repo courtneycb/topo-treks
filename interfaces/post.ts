@@ -1,4 +1,5 @@
 import type Author from "./author";
+import { Tag } from "./tag";
 
 type PostType = {
   slug: string;
@@ -11,7 +12,7 @@ type PostType = {
     url: string;
   };
   content: string;
-  tags: [string];
+  tags: Tag[];
   distance: string;
   time: string;
   elevation: string;

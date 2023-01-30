@@ -47,9 +47,9 @@ export default function Post({ post, morePosts, preview }: Props) {
                 elevation={post.elevation}
                 difficulty={post.difficulty}
               />
-              <div className="w-[640px] h-[400px] mx-auto">
-                <iframe src="https://footpathapp.com/routes/428228bc-50f6-49c6-868e-7f74e0d157e9?embed=1" width="100%" height="100%"></iframe>
-              </div>
+              {/* <div className="h-[400px] mx-auto md:h-[600px] md:mx-32">
+                <iframe src="https://ridewithgps.com/embeds?type=trip&id=112281697&metricUnits=true&sampleGraph=true" width="100%" height="100%"></iframe>
+              </div> */}
               <PostBody content={post.content} />
             </article>
           </>

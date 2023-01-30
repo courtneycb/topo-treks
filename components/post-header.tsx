@@ -3,12 +3,13 @@ import CoverImage from './cover-image'
 import PostTitle from './post-title'
 import type Author from '../interfaces/author'
 import Summary from './summary'
+import { Tag } from '../interfaces/tag'
 
 type Props = {
   title: string
   coverImage: string
   date: string
-  tags: [string]
+  tags: Tag[]
   distance: string
   time: string
   elevation: string
@@ -29,7 +30,7 @@ const PostHeader = ({ title, coverImage, date, tags, distance, time, elevation, 
         difficulty={difficulty}
       />
       <div className="mb-8 md:mb-16 sm:mx-0">
-        <CoverImage title={title} src={coverImage} tags={tags} date={date} />
+        <CoverImage title={title} src={coverImage} tags={tags} date={date} priority={true} />
       </div>
     </>
   )

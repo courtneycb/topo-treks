@@ -2,13 +2,14 @@ import Avatar from './avatar'
 import DateFormatter from './date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
+import { Tag } from '../interfaces/tag'
 
 type Props = {
   title: string
   coverImage: string
   date: string
   slug: string
-  tags: [string]
+  tags: Tag[]
 }
 
 const HeroPost = ({
@@ -21,7 +22,7 @@ const HeroPost = ({
   return (
     <section>
       <div className="mb-8 md:mb-16">
-        <CoverImage title={title} src={coverImage} slug={slug} tags={tags} date={date} />
+        <CoverImage title={title} src={coverImage} slug={slug} tags={tags} date={date} priority={true} />
       </div>
     </section>
   )

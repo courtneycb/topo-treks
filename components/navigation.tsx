@@ -1,5 +1,6 @@
 import { Disclosure } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
+import Link from 'next/link'
 import React from 'react'
 
 const navigation = [
@@ -32,7 +33,7 @@ export const Navbar = () => {
                 </Disclosure.Button>
               </div>
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
-                <div className="flex flex-shrink-0 items-center">
+                <Link className="flex flex-shrink-0 items-center" href="/">
                   <img
                     className="block h-8 w-auto lg:hidden"
                     src="/assets/blog/logo/topo-treks-icon.svg"
@@ -43,7 +44,7 @@ export const Navbar = () => {
                     src="/assets/blog/logo/topo-treks-icon-long.svg"
                     alt="Topo Treks"
                   />
-                </div>
+                </Link>
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (

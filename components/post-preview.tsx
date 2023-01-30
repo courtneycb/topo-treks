@@ -3,6 +3,7 @@ import DateFormatter from './date-formatter'
 import CoverImage from './cover-image'
 import Link from 'next/link'
 import type Author from '../interfaces/author'
+import { Tag } from '../interfaces/tag'
 
 type Props = {
   title: string
@@ -11,7 +12,7 @@ type Props = {
   excerpt: string
   author: Author
   slug: string
-  tags: [string]
+  tags: Tag[]
 }
 
 const PostPreview = ({

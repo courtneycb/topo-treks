@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
   url: "/assets/blog/wharfedale/wharfedale-stream-crossing.jpg"
-tags: ["Overnight", "Canterbury Foothills"]
+tags: [overnight, canterbury]
 distance: 13km
 time: 5 hours
 elevation: 878m

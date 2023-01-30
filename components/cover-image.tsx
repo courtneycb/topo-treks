@@ -2,29 +2,30 @@ import cn from 'classnames'
 import DateFormatter from './date-formatter'
 import Link from 'next/link'
 import Image from 'next/image'
+import { Tag } from '../interfaces/tag'
 
 type Props = {
   title: string
   src: string
-  tags: [string]
+  tags: Tag[]
   date: string
   slug?: string
+  priority?: boolean
 }
 
-const CoverImage = ({ title, src, tags, date, slug }: Props) => {
+const CoverImage = ({ title, src, tags, date, slug, priority }: Props) => {
   const image = (
     <Image
       src={src}
       alt={`Cover Image for ${title}`}
-      className={cn('shadow-sm object-cover h-full rounded', {
-        'hover:shadow-lg transition-shadow duration-200': slug,
-      })}
+      className={'object-cover h-full rounded shadow-sm'}
       width={1200}
       height={600}
+      priority={!!priority}
     />
   )
   return (
-    <div className="relative sm:mx-0 h-[600px]">
+    <div className="relative sm:mx-0 h-[400px]">
       {slug ? (
         <Link as={`/posts/${slug}`} href="/posts/[slug]" aria-label={title}>
           {image}
@@ -34,7 +35,7 @@ const CoverImage = ({ title, src, tags, date, slug }: Props) => {
             </div>
             <div className="flex flex-row flex items-center justify-center">
               {tags.map(tag => (
-                <div className="bg-green-700 bottom-10 text-white text-sm rounded-full z-10 py-1 px-2 mx-1">
+                <div key={tag} className="bg-green-700 bottom-10 text-white text-sm rounded-full z-10 py-1 px-2 mx-1">
                   {tag}
                 </div>
               ))}
