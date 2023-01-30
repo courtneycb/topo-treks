@@ -49,9 +49,16 @@ export function getAllPosts(fields: string[] = []) {
 
 export function getPostsByTag(tag: string, fields: string[] = []) {
   const allPosts = getAllPosts(fields);
-  const postsWithTag = allPosts.filter((post) => {
-    post.tags.includes(tag);
+
+  // investigate filter ...
+  const postsWithTag = [];
+  allPosts.forEach(function (post) {
+    const postTags = Array.from(post.tags);
+    if (postTags.indexOf(tag) !== -1) {
+      postsWithTag.push(post);
+    }
   });
+
   return postsWithTag;
 }
 

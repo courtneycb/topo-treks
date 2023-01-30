@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
   url: "/assets/blog/helicopter-hill/helicopter-hill.jpg"
-tags: [day, canterbury]
+tags: ["day", "canterbury"]
 distance: 4km
 time: 5 hours
 elevation: 478m
