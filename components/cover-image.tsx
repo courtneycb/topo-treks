@@ -35,9 +35,9 @@ const CoverImage = ({ title, src, tags, date, slug, priority }: Props) => {
             </div>
             <div className="flex flex-row flex items-center justify-center">
               {tags.map(tag => (
-                <div key={tag} className="bg-green-700 bottom-10 text-white text-sm rounded-full z-10 py-1 px-2 mx-1">
+                <button key={tag} className="bg-green-700 bottom-10 text-white text-sm rounded-full z-10 py-1 px-2 mx-1">
                   {tag}
-                </div>
+                </button>
               ))}
             </div>
             <div className="text-sm">
