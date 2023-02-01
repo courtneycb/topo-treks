@@ -25,11 +25,7 @@ const PostPreview = ({
   tags
 }: Props) => {
   return (
-    <div>
-      <div className="mb-5">
-        <Card slug={slug} title={title} src={coverImage} tags={tags} date={date} />
-      </div>
-    </div>
+    <Card slug={slug} title={title} src={coverImage} tags={tags} date={date} />
   )
 }
 
