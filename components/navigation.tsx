@@ -52,7 +52,7 @@ export const Navbar = () => {
                         key={item.name}
                         href={item.href}
                         className={classNames(
-                          item.current ? 'text-green-700 hover:text-green-500' : 'text-slate-700 hover:text-green-500',
+                          item.current ? 'text-green-600' : 'text-gray-900 hover:text-green-600',
                           'px-3 py-2 rounded-md text-sm font-medium'
                         )}
                         aria-current={item.current ? 'page' : undefined}
