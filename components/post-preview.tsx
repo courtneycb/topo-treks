@@ -25,7 +25,7 @@ const PostPreview = ({
   tags
 }: Props) => {
   return (
-    <Card slug={slug} title={title} src={coverImage} tags={tags} date={date} />
+    <Card slug={slug} title={title} src={coverImage} tags={tags} date={date} excerpt={excerpt} />
   )
 }
 
