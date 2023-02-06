@@ -8,11 +8,12 @@ type Props = {
   src: string
   tags: Tag[]
   date: string
+  excerpt: string
   slug?: string
   priority?: boolean
 }
 
-const Card = ({ title, src, tags, date, slug, priority }: Props) => {
+const Card = ({ title, src, tags, date, excerpt, slug, priority }: Props) => {
   const image = (
     <Image
       src={src}
@@ -38,8 +39,7 @@ const Card = ({ title, src, tags, date, slug, priority }: Props) => {
             </h2>
             {/* TODO: change to use excerpt from blog post */}
             <p className="text-gray-700 text-base mb-4">
-              Some quick example text to build on the card title and make up the bulk of the card's
-              content.
+              {excerpt}
             </p>
             <div className="text-sm">
               <DateFormatter dateString={date} />

@@ -6,14 +6,15 @@ import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import Post from '../interfaces/post'
+import Intro from '../components/intro'
 
 type Props = {
   allPosts: Post[]
 }
 
 export default function Index({ allPosts }: Props) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  // const heroPost = allPosts[0]
+  // const morePosts = allPosts.slice(1)
   return (
     <>
       <Layout>
@@ -21,7 +22,8 @@ export default function Index({ allPosts }: Props) {
           <title>Topo Treks</title>
         </Head>
         <Container>
-          {heroPost && (
+          <Intro />
+          {/* {heroPost && (
             <HeroPost
               title={heroPost.title}
               coverImage={heroPost.coverImage}
@@ -29,8 +31,8 @@ export default function Index({ allPosts }: Props) {
               tags={heroPost.tags}
               date={heroPost.date}
             />
-          )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          )} */}
+          {allPosts.length > 0 && <MoreStories posts={allPosts} />}
         </Container>
       </Layout>
     </>

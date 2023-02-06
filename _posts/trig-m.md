@@ -1,6 +1,6 @@
 ---
 title: "Trig M"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
+excerpt: "Some quick example text to build on the card title and make up the bulk of the card's content."
 coverImage: "/assets/blog/trig-m/luna-court-uphill.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
