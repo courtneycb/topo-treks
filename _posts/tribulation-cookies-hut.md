@@ -1,16 +1,16 @@
 ---
 title: "Tribulation/Cookies hut"
 excerpt: "Some quick example text to build on the card title and make up the bulk of the card's content."
-coverImage: "/assets/blog/tribulation-cookies-hut/tribulation-hut.jpg"
+coverImage: "/assets/blog/tribulation-cookies-hut/hut.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: Tim Neutkens
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
-  url: "/assets/blog/tribulation-cookies-hut/tribulation-hut.jpg"
+  url: "/assets/blog/tribulation-cookies-hut/hut.jpg"
 tags: ["overnight", "canterbury"]
-distance: 4km
-time: 5 hours
+distance: 10km-14km
+time: 4-6 hours
 elevation: 478m
 difficulty: Moderate
 ---
@@ -23,11 +23,29 @@ The start of the track is along Double Hill Run road, just before the bridge ove
 
 ## Tribulation hut
 
-The track to Tribulation hut starts by walking up the river bed for roughly 1km and there are a good number of DOC markers to follow. If it has been raining recently be prepared to get your boots wet early. You will then get onto a marked easement track. We walked this in the peak of summer and it was quite overgrown, the track was still visible but the grass alongside it was getting in our faces.
+The track to Tribulation hut starts by walking up the river bed for roughly 1km then gets onto an easement track. There are a good number of DOC markers to follow. If it has been raining recently be prepared to get your boots wet early. We walked this in the peak of summer and it was quite overgrown, the track was still visible but the grass alongside it was getting in our faces.
 
-![The river bed at the start of the track](/assets/blog/tribulation-cookies-hut/tribulation-start.jpg "The start of the track")
+<figure>
+    <img src="/assets/blog/tribulation-cookies-hut/start.jpg"
+         alt="The start of the track">
+    <figcaption>The start of the track</figcaption>
+</figure>
 
-[Add caption..]
+<figure>
+    <img src="/assets/blog/tribulation-cookies-hut/easement.jpg"
+         alt="The easement">
+    <figcaption>The easement</figcaption>
+</figure>
+
+At around the 4km mark, we came across a chunk of the track that had been washed away. We decided to head up the short and steep hill on our left instead of following the cliff edge as there was a lot of matagouri/tūmatakuru.
+
+<figure>
+    <img src="/assets/blog/tribulation-cookies-hut/washed-out.jpg"
+         alt="The washed out track">
+    <figcaption>The washed out track</figcaption>
+</figure>
+
+From here we followed the farm fencing
 
 <iframe src="https://ridewithgps.com/embeds?type=route&id=41943523&title=Road%20to%20Tribulation%20hut&metricUnits=true&sampleGraph=true&hideSurface=true" style="width: 100%; height: 600px; border: none;" scrolling="no"></iframe>
 

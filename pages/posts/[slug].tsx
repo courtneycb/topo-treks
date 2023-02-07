@@ -30,7 +30,7 @@ export default function Post({ post, morePosts, preview }: Props) {
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
-            <article className="mb-32">
+            <article className="prose prose-slate mx-auto lg:prose-lg mb-32">
               <Head>
                 <title>
                   {post.title} | Topo Treks
