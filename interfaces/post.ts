@@ -16,7 +16,7 @@ type PostType = {
   distance: string;
   time: string;
   elevation: string;
-  difficulty: string;
+  map: string;
 };
 
 export default PostType;

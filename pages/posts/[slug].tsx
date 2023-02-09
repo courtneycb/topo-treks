@@ -2,13 +2,11 @@ import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Container from '../../components/container'
 import PostBody from '../../components/post-body'
-import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Head from 'next/head'
-import { CMS_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 import type PostType from '../../interfaces/post'
 
@@ -45,7 +43,7 @@ export default function Post({ post, morePosts, preview }: Props) {
                 distance={post.distance}
                 time={post.time}
                 elevation={post.elevation}
-                difficulty={post.difficulty}
+                map={post.map}
               />
               {/* <div className="h-[400px] mx-auto md:h-[600px] md:mx-32">
                 <iframe src="https://ridewithgps.com/embeds?type=trip&id=112281697&metricUnits=true&sampleGraph=true" width="100%" height="100%"></iframe>
@@ -77,7 +75,7 @@ export async function getStaticProps({ params }: Params) {
     'distance',
     'time',
     'elevation',
-    'difficulty',
+    'map',
   ])
   const content = await markdownToHtml(post.content || '')
 

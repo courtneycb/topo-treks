@@ -4,7 +4,7 @@ import Link from 'next/link'
 import React from 'react'
 
 const navigation = [
-  { name: 'Home', href: '#', current: true },
+  { name: 'Home', href: '/', current: true },
   { name: 'Day', href: '#', current: false },
   { name: 'Overnight', href: '#', current: false },
   { name: 'About', href: '#', current: false },
@@ -52,7 +52,7 @@ export const Navbar = () => {
                         key={item.name}
                         href={item.href}
                         className={classNames(
-                          item.current ? 'text-green-600' : 'text-gray-900 hover:text-green-600',
+                          item.current ? 'text-green-700' : 'text-gray-900 hover:text-green-700',
                           'px-3 py-2 rounded-md text-sm font-medium'
                         )}
                         aria-current={item.current ? 'page' : undefined}

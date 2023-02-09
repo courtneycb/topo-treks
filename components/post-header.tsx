@@ -13,10 +13,10 @@ type Props = {
   distance: string
   time: string
   elevation: string
-  difficulty: string
+  map: string
 }
 
-const PostHeader = ({ title, coverImage, date, tags, distance, time, elevation, difficulty }: Props) => {
+const PostHeader = ({ title, coverImage, date, tags, distance, time, elevation, map }: Props) => {
   return (
     <>
       <PostTitle>{title}</PostTitle>
@@ -27,9 +27,9 @@ const PostHeader = ({ title, coverImage, date, tags, distance, time, elevation, 
         distance={distance}
         time={time}
         elevation={elevation}
-        difficulty={difficulty}
+        map={map}
       />
-      <div className="mb-8 md:mb-16 sm:mx-0">
+      <div className="mb-8 sm:mx-0">
         <CoverImage title={title} src={coverImage} tags={tags} date={date} priority={true} />
       </div>
     </>

@@ -9,10 +9,10 @@ author:
 ogImage:
   url: "/assets/blog/tribulation-cookies-hut/hut.jpg"
 tags: ["overnight", "canterbury"]
-distance: 10km-14km
+distance: 10-14 km
 time: 4-6 hours
-elevation: 478m
-difficulty: Moderate
+elevation: 527m
+map: BX20
 ---
 
 Tribulation hut and Cookies hut are both basic huts, each with 6 bunk beds, a non flushable toilet, and a river nearby for water. Cookies hut also has a fireplace. The hike to Tribulation hut is roughly 10km, with Cookies hut another 4km up the river. Due to flooding, some of the track has been washed out and is tough to navigate at times.

@@ -4,5 +4,22 @@
 
 figcaption {
   text-align: center;
-  margin-top: 0.5em;
+  margin-top: 0.5em !important;
+}
+
+figure {
+  height: 424px;
+}
+
+figure > img {
+  border-radius: 0.25rem;
+  object-fit: cover;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  margin-left: auto;
+  margin-right: auto;
+  height: 400px;
+}
+
+h1 {
+  margin-bottom: 20px !important;
 }

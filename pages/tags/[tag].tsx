@@ -72,7 +72,7 @@ export const getStaticProps = async ({ params }: Params) => {
     'distance',
     'time',
     'elevation',
-    'difficulty',
+    'map',
   ])
 
   return {
