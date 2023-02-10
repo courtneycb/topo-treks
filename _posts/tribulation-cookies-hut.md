@@ -1,5 +1,5 @@
 ---
-title: "Tribulation/Cookies hut"
+title: "Tribulation and Cookies hut"
 excerpt: "Some quick example text to build on the card title and make up the bulk of the card's content."
 coverImage: "/assets/blog/tribulation-cookies-hut/hut.jpg"
 date: "2020-03-16T05:35:07.322Z"
@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/tim.jpeg"
 ogImage:
   url: "/assets/blog/tribulation-cookies-hut/hut.jpg"
-tags: ["overnight", "canterbury"]
+tags: [Overnight, Canterbury]
 distance: 10-14 km
 time: 4-6 hours
 elevation: 527m
@@ -23,33 +23,51 @@ The start of the track is along Double Hill Run road, just before the bridge ove
 
 ## Tribulation hut
 
+<iframe src="https://ridewithgps.com/embeds?type=route&id=41943523&title=Road%20to%20Tribulation%20hut&metricUnits=true&sampleGraph=true&hideSurface=true" style="width: 100%; height: 600px; border: none;" scrolling="no"></iframe>
+
 The track to Tribulation hut starts by walking up the river bed for roughly 1km then gets onto an easement track. There are a good number of DOC markers to follow. If it has been raining recently be prepared to get your boots wet early. We walked this in the peak of summer and it was quite overgrown, the track was still visible but the grass alongside it was getting in our faces.
 
 <figure>
-    <img src="/assets/blog/tribulation-cookies-hut/start.jpg"
-         alt="The start of the track">
-    <figcaption>The start of the track</figcaption>
+  <img src="/assets/blog/tribulation-cookies-hut/start.jpg"
+    alt="The start of the track">
+  <figcaption>The start of the track</figcaption>
 </figure>
 
 <figure>
-    <img src="/assets/blog/tribulation-cookies-hut/easement.jpg"
-         alt="The easement">
-    <figcaption>The easement</figcaption>
+  <img src="/assets/blog/tribulation-cookies-hut/easement.jpg"
+    alt="The easement">
+  <figcaption>The easement</figcaption>
 </figure>
 
-At around the 4km mark, we came across a chunk of the track that had been washed away. We decided to head up the short and steep hill on our left instead of following the cliff edge as there was a lot of matagouri/tūmatakuru.
+At around the 4km mark, we came across a chunk of the track that had been washed away. We decided to head up the short and steep hill on our left instead of following the cliff edge to the track as there was a lot of matagouri/tūmatakuru.
 
 <figure>
-    <img src="/assets/blog/tribulation-cookies-hut/washed-out.jpg"
-         alt="The washed out track">
-    <figcaption>The washed out track</figcaption>
+  <img src="/assets/blog/tribulation-cookies-hut/washed-out.jpg"
+    alt="The washed out track">
+  <figcaption>The washed out track</figcaption>
 </figure>
 
-From here we followed the farm fencing
+From here we continued to diverge from the track, following farm fencing and a 4WD track until the 5.5km mark, where we returned to the main track and crossed over into the Hakatere Conservation Park.
 
-<iframe src="https://ridewithgps.com/embeds?type=route&id=41943523&title=Road%20to%20Tribulation%20hut&metricUnits=true&sampleGraph=true&hideSurface=true" style="width: 100%; height: 600px; border: none;" scrolling="no"></iframe>
+<figure>
+  <img src="/assets/blog/tribulation-cookies-hut/fencing.jpg"
+    alt="Following the fence line">
+  <figcaption>Following the fence line</figcaption>
+</figure>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+<figure>
+  <img src="/assets/blog/tribulation-cookies-hut/4wd-track.jpg"
+    alt="The 4WD track">
+  <figcaption>The 4WD track</figcaption>
+</figure>
+
+From here the track is generally well defined and mostly follows a farm fence line. Gaiters proved useful for the long grass and weaving through matagouri/tūmatakuru.
+
+<figure>
+  <img src="/assets/blog/tribulation-cookies-hut/final-leg.jpg"
+    alt="Final leg of the track">
+  <figcaption>Final leg of the track</figcaption>
+</figure>
 
 ## Tribulation hut to Cookies hut
 

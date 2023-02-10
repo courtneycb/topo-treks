@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/oxford/mt-oxford-summit.jpg"
-tags: [day, canterbury]
+tags: [Day, Canterbury]
 distance: 5km
 time: 2 hours
 elevation: 1478m

@@ -5,10 +5,10 @@ import React from 'react'
 
 const navigation = [
   { name: 'Home', href: '/', current: true },
-  { name: 'Day', href: '#', current: false },
-  { name: 'Overnight', href: '#', current: false },
+  { name: 'Day', href: '/tags/day', current: false },
+  { name: 'Overnight', href: '/tags/overnight', current: false },
   { name: 'About', href: '#', current: false },
-]
+];
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(' ')

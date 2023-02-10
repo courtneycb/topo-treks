@@ -8,7 +8,7 @@ author:
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
   url: "/assets/blog/trig-m/luna-court-uphill.jpg"
-tags: [day, canterbury]
+tags: [Day, Canterbury]
 distance: 6km
 time: 2 hours
 elevation: 439m
